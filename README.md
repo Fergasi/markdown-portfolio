@@ -2,7 +2,7 @@
 
 ---
 
-Super excited for my first real coding assignment! Here is a picture of myself (please excuse the mask) :joy::
+Super excited for my first real coding assignment! Here is a picture of myself (please excuse the mask):
 
 ![alt text](https://avatars.githubusercontent.com/u/98353142?s=400&u=a36a2789cfecfb602f27b7af107d087c40bbea86&v=4)
 
