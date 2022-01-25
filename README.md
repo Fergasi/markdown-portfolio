@@ -41,6 +41,8 @@ Perfect!
 
 ![Screenshot 2022-01-24 at 16 59 16](https://user-images.githubusercontent.com/98353142/150872066-35e50f05-6b5a-4fa4-8882-bf4ef81ac246.png)
 
+---
+
 [^1]: Picture of Tom the fat cat in his natural habitat
 
 ---
